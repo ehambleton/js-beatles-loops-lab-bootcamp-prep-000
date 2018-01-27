@@ -23,7 +23,6 @@ return newarray;
 
 function iLoveTheBeatles (n) {
   var emptyarray = []
-  var n = 0
   do {
 emptyarray.push(`I love the Beatles!`)
 n++
