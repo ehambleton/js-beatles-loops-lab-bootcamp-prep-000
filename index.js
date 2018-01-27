@@ -27,6 +27,6 @@ function iLoveTheBeatles (number) {
   do {
 emptyarray.push(`I love the Beatles!`)
 parameter++
-} while (parameter < 15);
+} while (parameter > 15);
 return emptyarray
 }
