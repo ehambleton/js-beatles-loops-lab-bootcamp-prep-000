@@ -23,10 +23,10 @@ return newarray;
 
 function iLoveTheBeatles (number) {
   var emptyarray = []
-  var parameter = 0
+  var n = 0
   do {
 emptyarray.push(`I love the Beatles!`)
-parameter++
-} while (parameter > 15);
+n++
+} while (n < 15);
 return emptyarray
 }
